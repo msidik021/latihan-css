@@ -1,0 +1,15 @@
+h1 {font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+color-scheme: dark;
+;
+line-height: 1.5em;
+text-align: center;
+textarea {background-color: rgb(62, 56, 92);}
+}
+p {font-family: 'Courier New', Courier, monospace;
+font-size: small
+font-weight: 600;
+margin-top: 0;
+margin-bottom: 20px;
+color: #333;
+text-align :right;
