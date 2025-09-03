@@ -26,7 +26,7 @@ a {
 
 a:hover {
   background-color: #ffffff; /* Invert colors on hover */
-  color: #0a0a1a; /* Dark text on neon background */
+  color: #0a0a1a; /* Dark text  */
   box-shadow: 0 0 15px #b4b4b4, 0 0 25px #8f8f8f; /* Stronger glow on hover */
   transform: translateY(-2px); /* Slight lift effect */
 }
