@@ -1,8 +1,15 @@
+.menu-icon {
+  width: 75px;
+  height: 75px;
+  display: block;
+  margin: 20px auto; /* otomatis center secara horizontal */
+}
+
 body {
   font-family: "Share Tech Mono", monospace;
   font-size: 20px;
   font-variant: small-caps;
-  background-image: url("abstract-geometric-background-shapes-texture.jpg");
+  background-image: url("thumb-1920-480530.png");
   size-adjust: 700px 600px;
 }
 h1 {
